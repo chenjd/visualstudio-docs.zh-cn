@@ -25,7 +25,7 @@ ms.locfileid: "39251570"
 
 ### <a name="confirm-editor-attaching-is-enabled"></a>确认已启用“编辑器连接”
 
-在 Unity 菜单中，选择“编辑”>“首选项”，然后选择“外部工具”选项卡。确定已启用“编辑器连接”复选框。 有关详细信息，请查阅 [Unity 首选项文档](https://docs.unity3d.com/Manual/Preferences.html)。
+在 Unity 菜单中，选择“Edit”>“Preferences”，然后选择“External Tools”选项卡。确定已启用“Editor Attaching”复选框。 有关详细信息，请查阅 [Unity 首选项文档](https://docs.unity3d.com/Manual/Preferences.html)。
 
 ### <a name="unable-to-attach"></a>无法附加
 
@@ -58,7 +58,7 @@ Parse、FMOD、UMP (Universal Media Player)、ZFBrowser 或嵌入式浏览器等
 
 ## <a name="incompatible-project-in-visual-studio"></a>Visual Studio 中的不兼容项目
 
-首先，检查是否已将 Visual Studio 设置为 Unity 中的外部脚本编辑器（编辑/首选项/外部工具）。 然后检查 Unity 是否已安装 Visual Studio 插件（“帮助/关于”必须在底部显示一条类似于“已启用 Microsoft Visual Studio Tools for Unity”的消息）。 然后检查 Visual Studio 中是否已正确安装该扩展（“帮助/关于”）。
+首先，检查是否已将 Visual Studio 设置为 Unity 中的外部脚本编辑器（Edit/Preferences/External Tools）。 然后检查 Unity 是否已安装 Visual Studio 插件（“Help/About”必须在底部显示一条类似于“已启用 Microsoft Visual Studio Tools for Unity”的消息）。 然后检查 Visual Studio 中是否已正确安装该扩展（“Help/About”）。
 
 ## <a name="extra-reloads-or-visual-studio-losing-all-open-windows"></a>其他重载，或 Visual Studio丢失所有打开的窗口
 
